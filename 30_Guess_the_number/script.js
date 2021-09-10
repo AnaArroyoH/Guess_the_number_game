@@ -1,4 +1,4 @@
-
+// let namePlayer;
 let numberOfGuesses = 5;
 let currentGuess;
 
